@@ -1,5 +1,161 @@
 {
     "Saturday 08th March 2025 - Schedule Time UK GMT": {
+        "PPV Events<\/span>": [
+            {
+                "time": "14:00",
+                "event": "MotoAmerica Superbike Daytona 200",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "205"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "17:00",
+                "event": "2025 ERX Snocross National",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "206"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "18:30",
+                "event": "AMA Supercross Championship Indianapolis",
+                "channels": [
+                    {
+                        "channel_name": "Peacock",
+                        "channel_id": "177"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "19:00",
+                "event": "wXw: 16 Carat Gold 2025, Night 2",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "178"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "19:30",
+                "event": "410 Sprints Lincoln Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "179"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "20:00",
+                "event": "2025 SMART Modified Tour at Anderson Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "180"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "20:30",
+                "event": "Season Opener Port Royal Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "181"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "22:00",
+                "event": "Top Level Pro 19: March Madness",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "172"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "23:00",
+                "event": "2025 NASCAR Weekly Racing at Hickory Motor Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "173"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "00:15",
+                "event": "2025 NARC 410 Sprints at Stockton Dirt Track",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "174"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "00:15",
+                "event": "World of Outlaws Sprint Cars",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "175"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "00:30",
+                "event": "2025 USAC Western States Midgets at Ventura Raceway",
+                "channels": [
+                    {
+                        "channel_name": "Floracing",
+                        "channel_id": "176"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "01:00",
+                "event": "Pro Box Promotions : Arnold Khegai vs Joet Gonzalez",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "106"
+                    }
+                ],
+                "channels2": []
+            },
+            {
+                "time": "01:00",
+                "event": "FSW: Future Shock 2025, March 8th",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "108"
+                    }
+                ],
+                "channels2": []
+            }
+        ],
         "TV Show<\/span>": [
             {
                 "time": "14:00",
